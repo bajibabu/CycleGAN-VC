@@ -1,0 +1,5 @@
+*.pyc
+.vscode
+__pycache_
+checkpoints
+arctic_dataset
